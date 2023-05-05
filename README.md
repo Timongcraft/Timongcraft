@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Timon 👋
+
+I love doing things with Minecraft especially the more tech site I mean plugins, mods and datapacks etc.
+
+[![](https://github-readme-stats.vercel.app/api?username=Timongcraft&count_private=true&show_icons=true&hide_title=true&theme=github_dark_dimmed)](https://github.com/Timongcraft)
 
 <!--
 **Timongcraft/Timongcraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
